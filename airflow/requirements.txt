@@ -1,0 +1,11 @@
+# Airflow requirements for the data pipeline project
+
+apache-airflow
+pandas
+boto3
+psycopg2-binary
+pyarrow
+kafka-python
+apache-beam
+sqlalchemy
+numpy
